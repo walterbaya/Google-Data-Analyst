@@ -1,0 +1,153 @@
+id_depto_indec_residencia;departamento_residencia;id_prov_indec_residencia;provincia_residencia;anio_min;evento;id_grupo_etario;grupo_etario;sepi_min;cantidad
+021;Colón;14;Córdoba;2025;Dengue;5;De 5 a 9 años;3;1
+133;San Javier;14;Córdoba;2025;Dengue;10;De 35 a 44 años;3;1
+999;desconocido;99;desconocida;2025;Dengue;9;De 25 a 34 años;4;1
+028;Guaymallén;50;Mendoza;2025;Dengue;9;De 25 a 34 años;3;1
+077;Río Chico;90;Tucumán;2025;Dengue;11;De 45 a 65 años;3;3
+077;Río Chico;90;Tucumán;2025;Dengue;7;De 15 a 19 años;4;1
+049;Pilcomayo;34;Formosa;2025;Dengue;12;Mayores de 65 años;5;1
+014;Formosa;34;Formosa;2025;Dengue;7;De 15 a 19 años;2;1
+035;Patiño;34;Formosa;2025;Dengue;11;De 45 a 65 años;1;1
+133;San Javier;14;Córdoba;2025;Dengue;11;De 45 a 65 años;3;1
+014;Capital;14;Córdoba;2025;Dengue;12;Mayores de 65 años;5;1
+133;San Cosme;18;Corrientes;2025;Dengue;11;De 45 a 65 años;5;1
+035;Patiño;34;Formosa;2025;Dengue;11;De 45 a 65 años;5;1
+014;Formosa;34;Formosa;2025;Dengue;9;De 25 a 34 años;3;1
+133;San Javier;14;Córdoba;2025;Dengue;9;De 25 a 34 años;5;2
+049;Ischilín;14;Córdoba;2025;Dengue;9;De 25 a 34 años;5;1
+021;Colón;14;Córdoba;2025;Dengue;11;De 45 a 65 años;4;1
+035;Patiño;34;Formosa;2025;Dengue;9;De 25 a 34 años;1;1
+077;Río Chico;90;Tucumán;2025;Dengue;8;De 20 a 24 años;4;1
+084;Rosario;82;Santa Fe;2025;Dengue;6;De 10 a 14 años;3;1
+035;Patiño;34;Formosa;2025;Dengue;9;De 25 a 34 años;5;1
+077;Río Chico;90;Tucumán;2025;Dengue;11;De 45 a 65 años;5;1
+014;Capital;14;Córdoba;2025;Dengue;6;De 10 a 14 años;1;1
+084;Rosario;82;Santa Fe;2025;Dengue;11;De 45 a 65 años;3;4
+014;Formosa;34;Formosa;2025;Dengue;11;De 45 a 65 años;2;1
+035;Patiño;34;Formosa;2025;Dengue;6;De 10 a 14 años;2;2
+014;Formosa;34;Formosa;2025;Dengue;8;De 20 a 24 años;2;1
+014;Capital;46;La Rioja;2025;Dengue;9;De 25 a 34 años;4;1
+077;Río Chico;90;Tucumán;2025;Dengue;11;De 45 a 65 años;4;1
+014;Capital;14;Córdoba;2025;Dengue;8;De 20 a 24 años;4;1
+049;Pilcomayo;34;Formosa;2025;Dengue;10;De 35 a 44 años;4;3
+035;Patiño;34;Formosa;2025;Dengue;6;De 10 a 14 años;4;2
+056;Pirané;34;Formosa;2025;Dengue;9;De 25 a 34 años;3;1
+049;Pilcomayo;34;Formosa;2025;Dengue;8;De 20 a 24 años;3;1
+035;Patiño;34;Formosa;2025;Dengue;9;De 25 a 34 años;3;2
+035;Patiño;34;Formosa;2025;Dengue;12;Mayores de 65 años;3;2
+014;Formosa;34;Formosa;2025;Dengue;5;De 5 a 9 años;2;1
+014;Formosa;34;Formosa;2025;Dengue;6;De 10 a 14 años;2;1
+077;Río Chico;90;Tucumán;2025;Dengue;7;De 15 a 19 años;5;1
+035;Patiño;34;Formosa;2025;Dengue;8;De 20 a 24 años;1;2
+028;Capital;66;Salta;2025;Dengue;5;De 5 a 9 años;4;1
+105;Maracó;42;La Pampa;2025;Dengue;8;De 20 a 24 años;1;1
+999;desconocido;90;Tucumán;2025;Dengue;5;De 5 a 9 años;4;1
+084;Rosario;82;Santa Fe;2025;Dengue;9;De 25 a 34 años;4;4
+014;Capital;14;Córdoba;2025;Dengue;11;De 45 a 65 años;4;3
+515;Malvinas Argentinas;06;Buenos Aires;2025;Dengue;7;De 15 a 19 años;2;1
+014;Capital;14;Córdoba;2025;Dengue;10;De 35 a 44 años;4;1
+014;Formosa;34;Formosa;2025;Dengue;9;De 25 a 34 años;5;1
+364;General Rodríguez;06;Buenos Aires;2025;Dengue;9;De 25 a 34 años;5;1
+014;Formosa;34;Formosa;2025;Dengue;11;De 45 a 65 años;5;1
+049;Pilcomayo;34;Formosa;2025;Dengue;7;De 15 a 19 años;3;1
+182;Unión;14;Córdoba;2025;Dengue;11;De 45 a 65 años;3;1
+049;Pilcomayo;34;Formosa;2025;Dengue;10;De 35 a 44 años;2;1
+013;COMUNA 13;02;CABA;2025;Dengue;11;De 45 a 65 años;2;1
+077;Río Chico;90;Tucumán;2025;Dengue;10;De 35 a 44 años;4;1
+042;General San Martín;14;Córdoba;2025;Dengue;11;De 45 a 65 años;5;1
+014;Formosa;34;Formosa;2025;Dengue;7;De 15 a 19 años;5;1
+133;San Javier;14;Córdoba;2025;Dengue;11;De 45 a 65 años;4;2
+084;Rosario;82;Santa Fe;2025;Dengue;5;De 5 a 9 años;4;1
+077;Río Chico;90;Tucumán;2025;Dengue;10;De 35 a 44 años;1;1
+035;Patiño;34;Formosa;2025;Dengue;5;De 5 a 9 años;2;1
+042;Pilagás;34;Formosa;2025;Dengue;12;Mayores de 65 años;1;1
+042;Pilagás;34;Formosa;2025;Dengue;9;De 25 a 34 años;1;1
+077;Río Chico;90;Tucumán;2025;Dengue;9;De 25 a 34 años;4;1
+084;Rosario;82;Santa Fe;2025;Dengue;10;De 35 a 44 años;4;1
+049;Pilcomayo;34;Formosa;2025;Dengue;11;De 45 a 65 años;4;1
+014;Formosa;34;Formosa;2025;Dengue;9;De 25 a 34 años;4;1
+049;Pilcomayo;34;Formosa;2025;Dengue;8;De 20 a 24 años;4;2
+084;Paraná;30;Entre Ríos;2025;Dengue;8;De 20 a 24 años;2;1
+371;General San Martín;06;Buenos Aires;2025;Dengue;11;De 45 a 65 años;5;1
+084;Rosario;82;Santa Fe;2025;Dengue;12;Mayores de 65 años;5;1
+014;Formosa;34;Formosa;2025;Dengue;11;De 45 a 65 años;1;1
+077;Río Chico;90;Tucumán;2025;Dengue;7;De 15 a 19 años;3;1
+014;Formosa;34;Formosa;2025;Dengue;10;De 35 a 44 años;1;2
+147;Santa María;14;Córdoba;2025;Dengue;7;De 15 a 19 años;4;1
+014;Capital;14;Córdoba;2025;Dengue;6;De 10 a 14 años;5;1
+042;General San Martín;14;Córdoba;2025;Dengue;10;De 35 a 44 años;2;1
+133;San Javier;14;Córdoba;2025;Dengue;10;De 35 a 44 años;5;4
+013;COMUNA 13;02;CABA;2025;Dengue;9;De 25 a 34 años;3;1
+014;Formosa;34;Formosa;2025;Dengue;10;De 35 a 44 años;3;1
+049;Pilcomayo;34;Formosa;2025;Dengue;9;De 25 a 34 años;2;1
+035;Patiño;34;Formosa;2025;Dengue;12;Mayores de 65 años;2;1
+077;Río Chico;90;Tucumán;2025;Dengue;9;De 25 a 34 años;5;1
+014;Formosa;34;Formosa;2025;Dengue;6;De 10 a 14 años;1;2
+133;San Javier;14;Córdoba;2025;Dengue;10;De 35 a 44 años;4;1
+014;Capital;46;La Rioja;2025;Dengue;10;De 35 a 44 años;3;1
+042;General San Martín;14;Córdoba;2025;Dengue;11;De 45 a 65 años;4;1
+490;Lomas de Zamora;06;Buenos Aires;2025;Dengue;4;De 2 a 4 años;5;1
+049;Pilcomayo;34;Formosa;2025;Dengue;9;De 25 a 34 años;5;1
+014;Cruz Alta;90;Tucumán;2025;Dengue;9;De 25 a 34 años;5;1
+049;Pilcomayo;34;Formosa;2025;Dengue;11;De 45 a 65 años;3;3
+021;Colón;14;Córdoba;2025;Dengue;9;De 25 a 34 años;3;1
+084;Rosario;82;Santa Fe;2025;Dengue;8;De 20 a 24 años;2;1
+014;Formosa;34;Formosa;2025;Dengue;9;De 25 a 34 años;2;1
+070;La Paz;30;Entre Ríos;2025;Dengue;11;De 45 a 65 años;2;1
+049;Pilcomayo;34;Formosa;2025;Dengue;9;De 25 a 34 años;4;2
+014;Formosa;34;Formosa;2025;Dengue;8;De 20 a 24 años;4;1
+021;Güer Aike;78;Santa Cruz;2025;Dengue;12;Mayores de 65 años;5;1
+035;Patiño;34;Formosa;2025;Dengue;10;De 35 a 44 años;2;1
+084;Rosario;82;Santa Fe;2025;Dengue;7;De 15 a 19 años;1;1
+077;Río Chico;90;Tucumán;2025;Dengue;5;De 5 a 9 años;3;1
+042;General San Martín;14;Córdoba;2025;Dengue;12;Mayores de 65 años;4;1
+084;Rosario;82;Santa Fe;2025;Dengue;7;De 15 a 19 años;4;2
+999;desconocido;02;CABA;2025;Dengue;11;De 45 a 65 años;2;1
+371;General San Martín;06;Buenos Aires;2025;Dengue;6;De 10 a 14 años;2;1
+077;Río Chico;90;Tucumán;2025;Dengue;10;De 35 a 44 años;5;2
+014;Capital;14;Córdoba;2025;Dengue;9;De 25 a 34 años;3;1
+077;Río Chico;90;Tucumán;2025;Dengue;11;De 45 a 65 años;1;1
+049;Pilcomayo;34;Formosa;2025;Dengue;11;De 45 a 65 años;2;1
+035;Patiño;34;Formosa;2025;Dengue;7;De 15 a 19 años;2;1
+014;Capital;14;Córdoba;2025;Dengue;12;Mayores de 65 años;4;1
+133;San Javier;14;Córdoba;2025;Dengue;7;De 15 a 19 años;5;1
+105;Tafí Viejo;90;Tucumán;2025;Dengue;5;De 5 a 9 años;4;1
+014;Formosa;34;Formosa;2025;Dengue;11;De 45 a 65 años;3;2
+077;Río Chico;90;Tucumán;2025;Dengue;12;Mayores de 65 años;5;1
+133;San Javier;14;Córdoba;2025;Dengue;11;De 45 a 65 años;5;1
+021;Colón;14;Córdoba;2025;Dengue;6;De 10 a 14 años;4;2
+638;Pilar;06;Buenos Aires;2025;Dengue;10;De 35 a 44 años;3;1
+014;Capital;14;Córdoba;2025;Dengue;11;De 45 a 65 años;3;1
+007;Belgrano;82;Santa Fe;2025;Dengue;6;De 10 a 14 años;3;1
+084;Rosario;82;Santa Fe;2025;Dengue;11;De 45 a 65 años;1;1
+133;San Javier;14;Córdoba;2025;Dengue;8;De 20 a 24 años;5;2
+133;San Javier;14;Córdoba;2025;Dengue;6;De 10 a 14 años;5;1
+049;Pilcomayo;34;Formosa;2025;Dengue;11;De 45 a 65 años;5;1
+084;Rosario;82;Santa Fe;2025;Dengue;11;De 45 a 65 años;4;5
+427;La Matanza;06;Buenos Aires;2025;Dengue;6;De 10 a 14 años;4;1
+014;Formosa;34;Formosa;2025;Dengue;8;De 20 a 24 años;1;1
+049;Pilcomayo;34;Formosa;2025;Dengue;9;De 25 a 34 años;1;1
+014;Formosa;34;Formosa;2025;Dengue;5;De 5 a 9 años;3;1
+063;Marcos Juárez;14;Córdoba;2025;Dengue;10;De 35 a 44 años;3;1
+014;Capital;46;La Rioja;2025;Dengue;8;De 20 a 24 años;5;1
+084;Rosario;82;Santa Fe;2025;Dengue;11;De 45 a 65 años;2;1
+084;Rosario;82;Santa Fe;2025;Dengue;12;Mayores de 65 años;4;1
+021;Colón;14;Córdoba;2025;Dengue;1;Neonato (hasta 28 dÍas);5;1
+014;Formosa;34;Formosa;2025;Dengue;11;De 45 a 65 años;4;1
+084;Rosario;82;Santa Fe;2025;Dengue;9;De 25 a 34 años;1;1
+084;Rosario;82;Santa Fe;2025;Dengue;7;De 15 a 19 años;2;1
+028;Capital;66;Salta;2025;Dengue;11;De 45 a 65 años;1;1
+014;Formosa;34;Formosa;2025;Dengue;10;De 35 a 44 años;2;1
+042;General San Martín;14;Córdoba;2025;Dengue;9;De 25 a 34 años;3;1
+112;Valle Viejo;10;Catamarca;2025;Dengue;11;De 45 a 65 años;3;1
+035;Patiño;34;Formosa;2025;Dengue;7;De 15 a 19 años;1;1
+133;San Javier;14;Córdoba;2025;Dengue;7;De 15 a 19 años;3;1
+014;Capital;14;Córdoba;2025;Dengue;7;De 15 a 19 años;4;1
+049;Pilcomayo;34;Formosa;2025;Dengue;9;De 25 a 34 años;3;2
+049;Pilcomayo;34;Formosa;2025;Dengue;5;De 5 a 9 años;2;1
+140;San Justo;14;Córdoba;2025;Dengue;9;De 25 a 34 años;1;1
+014;Capital;14;Córdoba;2025;Dengue;11;De 45 a 65 años;2;1
+014;Cruz Alta;90;Tucumán;2025;Dengue;10;De 35 a 44 años;3;1
+147;Santa María;14;Córdoba;2025;Dengue;10;De 35 a 44 años;3;1
+133;San Javier;14;Córdoba;2025;Dengue;7;De 15 a 19 años;4;1
+
