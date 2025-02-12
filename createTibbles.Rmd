@@ -1,0 +1,71 @@
+---
+title: "Tibbles"
+output: html_document
+date: "2025-02-12"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Tibbles
+
+Los Tibbles son una variación simplificada de los marcos de datos. Como Analista de datos, los utilizarás para organizar los datos en R de forma eficiente, especialmente si tu equipo utiliza otros paquetes de Tidyverse. En esta lectura, explorarás los tibbles y cómo se diferencian de los marcos de datos estándar. También aprenderá el código para crearlos en R. Los tibbles son un tipo de marco de datos diseñado específicamente para mejorar la gestión de datos en R. Mientras que un marco de datos se asemeja a una colección de columnas, similar a una hoja de cálculo o una tabla SQL, los tibbles ofrecen un enfoque más racionalizado. Los tibbles extraen automáticamente sólo las 10 primeras filas de un conjunto de datos y sólo tantas columnas como quepan en la pantalla. Esta función resulta especialmente útil cuando se manejan grandes conjuntos de datos. En lugar de intentar examinar un conjunto de datos completo, los tibbles permiten ver una pequeña instantánea. Además, a diferencia de los marcos de datos, los tibbles mantienen la integridad de los nombres de las variables y los tipos de datos en todo momento, lo que garantiza la coherencia de los datos.
+
+El paquete tibble forma parte del núcleo de tidyverse. Si ya has instalado el tidyverse, tienes lo que necesitas para empezar a trabajar con tibbles. Si no, instala y carga el tidyverse para empezar.
+
+Los tibbles aumentan la eficacia Comprender los tibbles es esencial para una carrera exitosa en el análisis de datos por varias razones clave.
+
+## Explorar datos de forma eficiente
+
+Los tibbles simplifican la exploración de datos presentando automáticamente una vista previa manejable de los datos. Mantener la coherencia y la integridad de los datos: Los tibbles mantienen la coherencia de los nombres de las variables y los tipos de datos, garantizando la integridad de los datos a lo largo del proceso de análisis. Esto reduce el riesgo de errores y de manipulación incorrecta de los datos, una consideración crítica en el análisis de datos.
+
+## Integración con tidyverse
+
+Tibbles se integra perfectamente con el ecosistema tidyverse, alineándose con las mejores prácticas de la industria. El dominio de tibbles mejorará su competencia en la manipulación y visualización de datos, proporcionándole un completo conjunto de herramientas.
+
+## Explorar un tibble
+
+He aquí un ejemplo de cómo crear un tibble en R. Puede utilizar el conjunto de datos precargado diamonds que ha explorado en actividades anteriores. As a reminder, the diamonds dataset includes information about different diamond qualities, including carat, cut, color, clarity, and more.
+
+## Cargar el conjunto de datos
+
+Puede cargar el conjunto de datos con la función data() utilizando el siguiente código:
+
+```{r}
+install.packages("tidyverse")
+library(tidyverse) 
+data(diamonds)
+View(diamonds)
+```
+
+### **Crear un tibble**
+
+Utilice la función **as_tibble()** para crear un tibble a partir de un marco de datos o matriz existente. Especifique en la función el marco de datos que desea convertir en un tibble:
+
+**as_tibble(diamonds)**
+
+Si ejecuta esta función, se mostrará el fragmento **diamonds**, pero no se guardará. Para guardar el conjunto de datos **diamonds** como un tibble, guárdelo en un nuevo objeto con el siguiente código:
+
+**diamonds_tibble \<- as_tibble(diamonds)**
+
+A continuación, examínalo con el código
+
+**diamonds_tibble**
+
+```{r}
+diamonds_tibble <- as_tibble(diamonds)
+diamonds_tibble
+```
+
+## Puntos clave
+
+Los tibbles ofrecen un enfoque racionalizado de la gestión de datos, mostrando automáticamente sólo las 10 primeras filas de un conjunto de datos y sólo tantas columnas como quepan en la pantalla. Esto facilita la gestión de grandes conjuntos de datos al tiempo que mantiene la integridad de los nombres de las variables y los tipos de datos. El uso de tibbles en R puede hacer que su exploración de datos sea más eficiente, asegurar la Integridad de datos y reducir el riesgo de errores y mal manejo de datos. La perfecta integración de tibbles con el ecosistema tidyverse se alinea con las mejores prácticas de la industria. El dominio de tibbles puede ser una poderosa adición a su conjunto de herramientas de análisis de datos.
+
+## Recursos para obtener más información
+
+Para obtener más información sobre tibbles, acceda a los siguientes recursos:
+
+-   La entrada para [tibble](https://tibble.tidyverse.org/) en la documentación de tidyverse resume qué es un tibble y cómo funciona en código R. Si quieres una visión rápida de lo esencial, este es el lugar al que acudir.
+
+-   El [capítulo Tidy](https://rstudio-education.github.io/tidyverse-cookbook/tidy.html#) en "A Tidyverse Cookbook" puede ayudarle a aprender más sobre cómo trabajar con tibbles utilizando código R. El capítulo explora una variedad de funciones de R que pueden ayudarle a crear y transformar tibbles para organizar y ordenar sus datos.
